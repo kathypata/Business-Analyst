@@ -74,7 +74,7 @@ This project addresses persistent train delays within the Metropolitan Transport
 
 This report focuses on operational insights by station, line, and delay category. It highlights the most delayed stations and branches, along with monthly delay trends.
 
-![Operational Report](screenshots/Screen%20Shot%202568-05-29%20at%2015.25.30.png)
+![Operational Report](operational_report.png)
 
 ---
 
@@ -82,5 +82,5 @@ This report focuses on operational insights by station, line, and delay category
 
 This report presents long-term trends in delay volume and severity from 2020 to 2024, including year-over-year and month-over-month comparisons.
 
-![Historical Report](screenshots/Screen%20Shot%202568-05-29%20at%2015.26.04.png)
+![Historical Report](historical_report.png)
 
